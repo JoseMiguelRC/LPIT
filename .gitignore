@@ -1,0 +1,6 @@
+# Logs de simulador
+*.log
+# Archivos temporales extraídos
+pdf_text.txt
+# MacOS
+.DS_Store

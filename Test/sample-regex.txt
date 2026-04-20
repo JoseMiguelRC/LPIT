@@ -1,0 +1,74 @@
+Hola Álvaro,
+
+Puedes contactar conmigo en los siguientes correos:
+
+- personal: alvaro.duran@example.com
+- trabajo: a.duran+dev@company-tech.io
+- alternativo: user_test123@mail.co.uk
+
+También puedes visitar estas páginas:
+- https://www.example.com
+- http://test-site.org/path/to/resource?query=123&sort=asc
+- www.sample-page.net
+- https://sub.domain.co.es:8080/api/v1/users
+
+Algunos números de teléfono:
+- +34 600 123 456
+- 0034-912-345-678
+- 0034.912-345-678
+- 0034.912-345*678
+- (034) 955 66 77 88
+
+Frases con repetición:
+- jajajaja
+- ha ha ha
+- testtesttest
+
+Fechas importantes:
+- 2026-03-21
+- 21/03/2026
+- March 21, 2026
+
+Valores numéricos:
+- entero: 42
+- negativo: -17
+- decimal: 3.1415
+- científico: 6.02e23
+
+Texto con mayúsculas y minúsculas:
+- Hola Mundo
+- hola mundo
+- HOLA MUNDO
+
+Cadenas con caracteres especiales:
+- usuario_01
+- archivo-final_v2.0.txt
+- data-set#2026!
+
+Direcciones IP:
+- 192.168.1.1
+- 10.0.0.254
+- 255.255.255.0
+
+Texto con espacios y tabs:
+    Esta línea tiene espacios al inicio
+Esta\tlínea\ttiene\ttabuladores
+
+Frases con repetición:
+- jajajaja
+- ha ha ha
+- testtesttest
+
+HTML básico:
+<div class="container">
+    <p id="parrafo1">Este es un párrafo</p>
+    <a href="https://link.com">Enlace</a>
+</div>
+
+Logs simulados:
+2026-03-21 10:15:32 INFO User logged in: user_id=1234
+2026-03-21 10:16:01 ERROR Failed to load resource: /api/data
+2026-03-21 10:17:45 WARNING Disk usage at 85%
+
+Saludos,
+Alvaro
