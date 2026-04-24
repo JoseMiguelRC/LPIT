@@ -4,3 +4,10 @@
 pdf_text.txt
 # MacOS
 .DS_Store
+Docs/explicacion_practica.md
+Docs/memoria.*
+# Archivos de datos generados
+*.parquet
+# Archivos de Python
+__pycache__/
+*.pyc
